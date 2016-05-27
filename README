@@ -1,0 +1,6 @@
+
+ipc2006 uses the same instances for sat and opt.
+
+all variants are non-adl.
+
+STORAGE has "either" type, so beware!
