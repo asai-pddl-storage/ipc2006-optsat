@@ -40,7 +40,7 @@
 		)
 )
 
-'(:action sample_soil
+(:action sample_soil
   :parameters (?x - rover ?s - store ?p - waypoint)
   :precondition (and (at ?x ?p)
                  (at_soil_sample ?p)
